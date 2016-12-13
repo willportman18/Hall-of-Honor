@@ -1,4 +1,4 @@
 host = "localhost"
 db_name = "hoh"
-user_name = "18_louisd"
-password = "sn00pysimple"
+user_name = "*nope*"
+password = "*nope 2.0*"
