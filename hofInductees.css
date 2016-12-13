@@ -1,0 +1,90 @@
+/* CSS Document: updated 11/22 */
+
+body {
+	font-family: Montserrat, Roboto;
+	background-image: url(../images/bg.png);
+	background-color: #333333;
+	margin: 0;
+
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+}
+
+.back {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	border: none;
+}
+
+
+li {
+	list-style-type: none;
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+}
+
+a, a:visited {
+	font-family: roboto;
+	font-weight: 300;
+	font-size: 30px;
+	color: #A3A3A3;
+	-webkit-transition: color .2s;
+	-transition: color .2s;
+	text-decoration: none;
+	border: 1px solid #A3A3A3;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+a:hover {
+	color: #6cace4;
+
+}
+
+h1 {
+	color: #FFF;
+	margin-top: 20px;
+	text-align: center;
+}
+
+p {
+	color: #6cace4;
+	text-align: center;
+}
+
+label {
+	color: #6cace4;
+	font-size: 20px;
+}
+
+.submit-center {
+	text-align: center;
+}
+
+.submit {
+	background-color: transparent;
+	font-family: roboto;
+	font-weight: 300;
+	font-size: 30px;
+	border: 1px solid #E3E3E3;
+	color: #6cace4;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+	text-align: center;
+	-webkit-transition: background-color .5s;
+	-transition: background-color .5s;
+}
+
+.submit:hover {
+	cursor: pointer;
+	background-color: #E3E3E3;
+}

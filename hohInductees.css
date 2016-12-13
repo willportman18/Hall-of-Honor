@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(../images/bg.png);
+	background-repeat: repeat;
+}
+
+h1 {
+	font-size:small;
+}

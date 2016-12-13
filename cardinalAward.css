@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Cardinal Bellarmine Award */
+/* Will Portman did everything */
+
+body {
+	background-image: url("../images/bg.png");
+	background-color: #333;
+
+}
+
+.back {
+	position: absolute;
+	text-align: left;
+	top: 10px;
+	left: 10px;
+	border: none;
+}
+
+.header {
+	font-family: Montserrat;
+	font-size: 50px;
+	color: #6cace4;
+}
+
+.name {
+	font-family: Montserrat;
+	font-size: 30px;
+	color: #6cace4;
+}
+
+.class {
+	font-family: roboto;
+	font-size: 20px;
+	color: #A3A3A3;
+}

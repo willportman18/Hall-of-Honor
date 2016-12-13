@@ -1,0 +1,85 @@
+html {
+    background: url(../images/theater-bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.award {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: #6cace4;
+    padding-top: 50px;
+}
+
+.back, .back:visited {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    text-decoration: none;
+    color:  #6cace4;
+}
+
+.desc {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    text-decoration: none;
+    text-align: center;
+    color:  #bfbfbf;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#section1 {
+    background-color: #FFF;
+    border-radius: 5px;
+    height: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+
+#section2 {
+    background-color: #FFF;
+    border-radius: 5px;
+    height: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+
+#section3 {
+    background-color: #FFF;
+    border-radius: 5px;
+    height: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+
+#section4 {
+    background-color: #FFF;
+    border-radius: 5px;
+    height: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+
+#section5 {
+    background-color: #FFF;
+    border-radius: 5px;
+    height: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h1 {
+    color: #FFF;
+    text-align: center;
+}

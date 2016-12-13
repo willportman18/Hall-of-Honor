@@ -1,0 +1,48 @@
+body {
+    background-color: #FFF;
+}
+
+.div1 {
+    background-color: #000;
+    padding-left: 50px;
+    float: left;
+}
+
+.awardName {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #6cace4;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.div2 {
+    background-color: #ccc;
+    width: 33%;
+    float: left;
+}
+
+.div3 {
+    background-color: #999;
+    width: 33%;
+    float: left;
+}
+
+.div4 {
+    background-color: #aaa;
+    width: 33%;
+    float: left;
+}
+
+.div5 {
+    background-color: #bbb;
+    width: 33%;
+    float: left;
+}
+
+.div6 {
+    background-color: #ddd;
+    width: 33%;
+    float: left;
+}
